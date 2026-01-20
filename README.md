@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 
    <p align="center"> 
  <a href="https://github.com/chatunityy/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/chatunityy?color=red&style=flat-square"></a> 
@@ -8,7 +8,7 @@
 
 
  <p align="center"> 
- <a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J"><img 
+ <a href="https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g"><img 
  src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9bd762&center=falso&vCenter=falso&lines=ChatUnity-bot;Entra+nel+nostro+canale+cliccando+qui"></a>
 
  <p align="center">
@@ -24,7 +24,7 @@ https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(a
 
 </details> 
 
- #### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 💬 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗`  
+ #### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 Napoli-Bot 💬 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗`  
     
  - 𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈:
 
@@ -65,7 +65,7 @@ https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(a
  ```
 > *Se appare **(Y/I/N/O/D/Z) [default=N] ?** usa la lettera **"y" + "ENTER"** per continuare l'installazione*
 
- #### `✦ 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭 💬 𝟐𝟒/𝟕 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐓𝐄𝐑𝐌𝐔𝐗`
+ #### `✦ Napoli-Bot💬 𝟐𝟒/𝟕 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐓𝐄𝐑𝐌𝐔𝐗`
  <details>
   <summary><b>Tocca qui per vedere </b></summary>
     
@@ -101,9 +101,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
  </details>
 
  # NapoliBot
-<a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J"><img src="https://i.ibb.co/HpkzmrMZ/chatunity-jpg.jpg" height="200px"></a>
+<a href="https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g"><img src="https://i.ibb.co/HpkzmrMZ/chatunity-jpg.jpg" height="200px"></a>
 
 - **Dashboard:** [`clicca  qui`](https://github.com/chatunityy)
-- **Canale WhatsApp:** [`clicca  qui`](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
-- **Contatto:** [`clicca  qui`](https://wa.me/8619858371809)
-- **Collab:** [`clicca  qui`](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
+- **Canale WhatsApp:** [`clicca  qui`](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
+- **Contatto:** [`clicca  qui`](https://wa.me/393336413960)
+- **Collab:** [`clicca  qui`](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
