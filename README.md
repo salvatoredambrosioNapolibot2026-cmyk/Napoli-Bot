@@ -100,7 +100,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
  
  </details>
 
- # 𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲
+ # NapoliBot
 <a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J"><img src="https://i.ibb.co/HpkzmrMZ/chatunity-jpg.jpg" height="200px"></a>
 
 - **Dashboard:** [`clicca  qui`](https://github.com/chatunityy)
