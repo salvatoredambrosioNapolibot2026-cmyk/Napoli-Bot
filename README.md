@@ -103,7 +103,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
  # NapoliBot
 <a href="https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g"><img src="https://i.ibb.co/HpkzmrMZ/chatunity-jpg.jpg" height="200px"></a>
 
-- **Dashboard:** [`clicca  qui`](https://github.com/chatunityy)
+- **Dashboard:** [`clicca  qui`](https://github.com/salvatoredambrosioNapolibot2026-cmyk/Napoli-Bot)
 - **Canale WhatsApp:** [`clicca  qui`](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 - **Contatto:** [`clicca  qui`](https://wa.me/393336413960)
 - **Collab:** [`clicca  qui`](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
