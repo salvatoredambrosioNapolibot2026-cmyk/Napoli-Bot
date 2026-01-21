@@ -64,7 +64,7 @@ global.author = 'MD'
 
 //────────────────────────────
 
-global.vs = '1.0'
+global.vs = '8.8'
 
 global.nomebot = 'Napoli-Bot'
 
